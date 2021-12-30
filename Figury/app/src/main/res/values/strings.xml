@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Figury</string>
+    <string name="NazwaPrzyciskuProstokat">Rysuj prostokąt</string>
+    <string name="NazwaPrzyciskuKwadrat">Rysuj kwadrat</string>
+</resources>
