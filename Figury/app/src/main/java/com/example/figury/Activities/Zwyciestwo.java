@@ -1,4 +1,4 @@
-package com.example.figury;
+package com.example.figury.Activities;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -6,6 +6,8 @@ import android.content.Intent;
 import android.media.MediaPlayer;
 import android.os.Bundle;
 import android.view.View;
+
+import com.example.figury.R;
 
 public class Zwyciestwo extends AppCompatActivity {
 

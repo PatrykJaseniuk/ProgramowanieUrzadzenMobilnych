@@ -28,7 +28,7 @@ public class Rownoleglobok extends Figura {
         pole= a*h;
         obwod = a*2 + b*2;
 
-        setLayoutParams(new ViewGroup.LayoutParams(a+40, h+40));
+//        setLayoutParams(new ViewGroup.LayoutParams(a+40, h+40));
     }
 
     @Override

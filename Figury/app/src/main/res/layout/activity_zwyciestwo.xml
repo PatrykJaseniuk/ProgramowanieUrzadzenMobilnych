@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".Zwyciestwo">
+    tools:context=".Activities.Zwyciestwo">
 
     <Button
         android:id="@+id/button4"
@@ -24,5 +24,5 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/zwyciestwo" />
+        app:srcCompat="@drawable/zwyciestwo_male" />
 </androidx.constraintlayout.widget.ConstraintLayout>

@@ -33,7 +33,7 @@ public class Trapez extends Figura{
         pole= (int) (a+b)*h/2;
         obwod = a+b+c+d;
 
-        setLayoutParams(new ViewGroup.LayoutParams(a+40, a+40));
+//        setLayoutParams(new ViewGroup.LayoutParams(a+40, a+40));
     }
 
     @Override

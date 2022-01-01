@@ -27,7 +27,7 @@ public class Kolo extends Figura{
         pole= (int)(3.14 * 2 *r);
         obwod = (int)(3.14 * r*r);
 
-        setLayoutParams(new ViewGroup.LayoutParams(r*2, r*2));
+//        setLayoutParams(new ViewGroup.LayoutParams(r*2, r*2));
     }
 
     @Override

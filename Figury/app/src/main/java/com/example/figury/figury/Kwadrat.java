@@ -22,11 +22,11 @@ public class Kwadrat extends Figura {
         Random r = new Random();
         a= r.nextInt(210)+50;
 
-
+        wartosciString =" A = "+a;
         pole= a*a;
         obwod = a*4;
 
-        setLayoutParams(new ViewGroup.LayoutParams(a+40, a+40));
+//        setLayoutParams(new ViewGroup.LayoutParams(a+40, a+40));
     }
 
     @Override

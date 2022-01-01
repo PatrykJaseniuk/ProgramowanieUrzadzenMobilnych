@@ -1,4 +1,4 @@
-package com.example.figury;
+package com.example.figury.Activities;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -10,6 +10,9 @@ import android.widget.Button;
 import android.widget.CompoundButton;
 import android.widget.Switch;
 
+import com.example.figury.FiguraNazwa;
+import com.example.figury.R;
+import com.example.figury.StanyGraczy;
 import com.example.figury.figury.Kolo;
 import com.example.figury.figury.Kwadrat;
 import com.example.figury.figury.Prostokat;
@@ -23,6 +26,7 @@ public class MainActivity extends AppCompatActivity {
 
 static public boolean czyTrybNauka;
 static public FiguraNazwa figuraNazwa;
+static private  Switch toggle;
 private Intent intent;
 
     @Override
@@ -30,12 +34,21 @@ private Intent intent;
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-//        ConstraintLayout cl = findViewById(R.id.borysek);
-//
-//        cl.addView(new Button(this));
-        dodajActionListinera();
+//        dodajActionListinerazDoPrzelacznika();
+        toggle = (Switch) findViewById(R.id.switch1);
+//        toggle.setChecked(true);
+    }
 
+//    @Override
+//    protected void onResume() {
+//        super.onResume();
+//        toggle.setChecked(true);
+//    }
 
+    private void ustawPrzelacznik() {
+        Switch toggle = (Switch) findViewById(R.id.switch1);
+        toggle.setChecked(czyTrybNauka);
+        toggle.isChecked();
     }
 
     @Override
@@ -130,54 +143,62 @@ private Intent intent;
         }
     }
 
-    private void dodajActionListinera() {
-        Switch toggle = (Switch) findViewById(R.id.switch1);
-        toggle.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
-            public void onCheckedChanged(CompoundButton buttonView, boolean isChecked) {
-                if (isChecked) {
-                    // The toggle is enabled
-                    czyTrybNauka=true;
-                } else {
-                    // The toggle is disabled
-                    czyTrybNauka = false;
-                }
-            }
-        });
-    }
+//    private void dodajActionListinerazDoPrzelacznika() {
+//        Switch toggle = (Switch) findViewById(R.id.switch1);
+//        toggle.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
+//            public void onCheckedChanged(CompoundButton buttonView, boolean isChecked) {
+//                if (isChecked) {
+//                    // The toggle is enabled
+//                    czyTrybNauka=true;
+//                } else {
+//                    // The toggle is disabled
+//                    czyTrybNauka = false;
+//                }
+//            }
+//        });
+//    }
 
     public void onClickProstokat(View element)
     {
+
+        czyTrybNauka = toggle.isChecked();
         figuraNazwa = FiguraNazwa.prostokat;
         startActivity(new Intent(this, AktywnoscZFigura.class));
     }
     public void onClickKwadrat(View element)
     {
+        czyTrybNauka = toggle.isChecked();
         figuraNazwa = FiguraNazwa.kwadrat;
         startActivity(new Intent(this, AktywnoscZFigura.class));
     }
 
     public void onClickTrojkatProstokatny(View element)
     {
+        czyTrybNauka = toggle.isChecked();
         figuraNazwa = FiguraNazwa.trojkatProstokatny;
         startActivity(new Intent(this, AktywnoscZFigura.class));
     }
     public void onClickTrojkatRownoboczny(View element)
     {
+        czyTrybNauka = toggle.isChecked();
         figuraNazwa = FiguraNazwa.trojkatRownoboczny;
         startActivity(new Intent(this, AktywnoscZFigura.class));
     }
     public void onClickKolo(View element)
     {
+        czyTrybNauka = toggle.isChecked();
         figuraNazwa = FiguraNazwa.kolo;
         startActivity(new Intent(this, AktywnoscZFigura.class));
     }
     public void onClickRownoleglobok(View element)
     {
+        czyTrybNauka = toggle.isChecked();
         figuraNazwa = FiguraNazwa.rownoleglobok;
         startActivity(new Intent(this, AktywnoscZFigura.class));
     }
     public void onClickTrapez(View element)
     {
+        czyTrybNauka = toggle.isChecked();
         figuraNazwa = FiguraNazwa.trapez;
         startActivity(new Intent(this, AktywnoscZFigura.class));
     }

@@ -30,7 +30,7 @@ public class TrojkatProstokatny extends Figura{
         pole= (a*b)/2;
         obwod = a*2 + b*2;
 
-        setLayoutParams(new ViewGroup.LayoutParams(a+40, b+40));
+//        setLayoutParams(new ViewGroup.LayoutParams(a+40, b+40));
     }
 
     @Override

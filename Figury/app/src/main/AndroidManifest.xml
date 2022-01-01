@@ -10,16 +10,25 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Figury">
         <activity
-            android:name=".Przegrana"
+            android:name=".Activities.WyborGracza"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Activities.Przegrana"
             android:exported="true" />
         <activity
-            android:name=".Zwyciestwo"
+            android:name=".Activities.Zwyciestwo"
             android:exported="true" />
         <activity
-            android:name=".AktywnoscZFigura"
+            android:name=".Activities.AktywnoscZFigura"
             android:exported="true" />
         <activity
-            android:name=".MainActivity"
+            android:name=".Activities.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

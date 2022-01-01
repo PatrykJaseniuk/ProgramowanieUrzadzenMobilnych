@@ -1,4 +1,4 @@
-package com.example.figury;
+package com.example.figury.Activities;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.constraintlayout.widget.ConstraintLayout;
@@ -11,6 +11,9 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 
+import com.example.figury.FiguraNazwa;
+import com.example.figury.R;
+import com.example.figury.StanyGraczy;
 import com.example.figury.figury.Figura;
 import com.example.figury.figury.Kolo;
 import com.example.figury.figury.Kwadrat;

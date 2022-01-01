@@ -1,4 +1,4 @@
-package com.example.figury;
+package com.example.figury.Activities;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -9,6 +9,9 @@ import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.EditText;
 import android.widget.ListView;
+
+import com.example.figury.R;
+import com.example.figury.StanyGraczy;
 
 public class WyborGracza extends AppCompatActivity {
 
@@ -59,7 +62,7 @@ public class WyborGracza extends AppCompatActivity {
     }
 
     private void rozpocznijGre() {
-        startActivity(new Intent(this,MainActivity.class));
+        startActivity(new Intent(this,com.example.figury.Activities.MainActivity.class));
     }
 
     public void onClickDodajGracza(View view)

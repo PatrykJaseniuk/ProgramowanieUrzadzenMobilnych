@@ -28,7 +28,7 @@ public class TrojkatRownoboczny extends Figura{
         pole= (int)(a*a *java.lang.Math.sqrt(3)/4);
         obwod = a*3;
 
-        setLayoutParams(new ViewGroup.LayoutParams(a+40, a+40));
+//        setLayoutParams(new ViewGroup.LayoutParams(a+40, a+40));
     }
 
     @Override

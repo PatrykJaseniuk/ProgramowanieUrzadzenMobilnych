@@ -27,7 +27,7 @@ public class Prostokat extends Figura{
         obwod = a*2 + b*2;
         wartosciString ="a = "+a+"\nb = "+b;
 
-        setLayoutParams(new ViewGroup.LayoutParams(a+40, b+40));
+//        setLayoutParams(new ViewGroup.LayoutParams(a+40, b+40));
     }
 
     @Override
