@@ -7,20 +7,21 @@ import android.media.MediaPlayer;
 import android.os.Bundle;
 import android.view.View;
 
-public class Zwyciestwo extends AppCompatActivity {
+public class Przegrana extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_zwyciestwo);
-        mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.zwyciestwo);
+        setContentView(R.layout.activity_przegrana);
+        mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.przegrana);
         mediaPlayer.start();
     }
 
-    public void onClick(View v)
+    public void onClick (View v)
     {
         startActivity(new Intent(this,MainActivity.class));
     }
+    MediaPlayer mediaPlayer;
 
     @Override
     protected void onPause() {
@@ -28,5 +29,9 @@ public class Zwyciestwo extends AppCompatActivity {
         mediaPlayer.stop();
     }
 
-    MediaPlayer mediaPlayer;
+    @Override
+    public void onBackPressed() {
+//        super.onBackPressed();
+        startActivity(new Intent(this, MainActivity.class));
+    }
 }

@@ -36,6 +36,12 @@ public class AktywnoscZFigura extends AppCompatActivity {
 //        setTextView();
     }
 
+    @Override
+    public void onBackPressed() {
+//        super.onBackPressed();
+        startActivity(new Intent(this, MainActivity.class));
+    }
+
     private void generujFigure() {
 
         if(MainActivity.figuraNazwa == FiguraNazwa.prostokat)
@@ -156,6 +162,7 @@ public class AktywnoscZFigura extends AppCompatActivity {
     }
 
     private void zwyciestwo() {
+        StanyGraczy.odgadnietoFigure(figura.getClass());
         startActivity(new Intent(this,Zwyciestwo.class));
     }
 
