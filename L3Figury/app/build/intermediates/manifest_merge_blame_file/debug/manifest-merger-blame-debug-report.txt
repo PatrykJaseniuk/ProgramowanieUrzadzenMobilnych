@@ -1,0 +1,107 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.figury"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\jasyn\OneDrive\Dokumenty\S5\ProgramowanieUrzadzenMobilnych\Figury\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->C:\Users\jasyn\OneDrive\Dokumenty\S5\ProgramowanieUrzadzenMobilnych\Figury\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->C:\Users\jasyn\OneDrive\Dokumenty\S5\ProgramowanieUrzadzenMobilnych\Figury\app\src\main\AndroidManifest.xml:5:5-39:19
+12        android:allowBackup="true"
+12-->C:\Users\jasyn\OneDrive\Dokumenty\S5\ProgramowanieUrzadzenMobilnych\Figury\app\src\main\AndroidManifest.xml:6:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.7.0] C:\Users\jasyn\.gradle\caches\transforms-3\376792b261fdcbfd86757f02ea12377d\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+14        android:debuggable="true"
+15        android:icon="@mipmap/ic_launcher"
+15-->C:\Users\jasyn\OneDrive\Dokumenty\S5\ProgramowanieUrzadzenMobilnych\Figury\app\src\main\AndroidManifest.xml:7:9-43
+16        android:label="@string/app_name"
+16-->C:\Users\jasyn\OneDrive\Dokumenty\S5\ProgramowanieUrzadzenMobilnych\Figury\app\src\main\AndroidManifest.xml:8:9-41
+17        android:roundIcon="@mipmap/ic_launcher_round"
+17-->C:\Users\jasyn\OneDrive\Dokumenty\S5\ProgramowanieUrzadzenMobilnych\Figury\app\src\main\AndroidManifest.xml:9:9-54
+18        android:supportsRtl="true"
+18-->C:\Users\jasyn\OneDrive\Dokumenty\S5\ProgramowanieUrzadzenMobilnych\Figury\app\src\main\AndroidManifest.xml:10:9-35
+19        android:testOnly="true"
+20        android:theme="@style/Theme.Figury" >
+20-->C:\Users\jasyn\OneDrive\Dokumenty\S5\ProgramowanieUrzadzenMobilnych\Figury\app\src\main\AndroidManifest.xml:11:9-44
+21        <activity
+21-->C:\Users\jasyn\OneDrive\Dokumenty\S5\ProgramowanieUrzadzenMobilnych\Figury\app\src\main\AndroidManifest.xml:12:9-20:20
+22            android:name="com.example.figury.Activities.WyborGracza"
+22-->C:\Users\jasyn\OneDrive\Dokumenty\S5\ProgramowanieUrzadzenMobilnych\Figury\app\src\main\AndroidManifest.xml:13:13-51
+23            android:exported="true" >
+23-->C:\Users\jasyn\OneDrive\Dokumenty\S5\ProgramowanieUrzadzenMobilnych\Figury\app\src\main\AndroidManifest.xml:14:13-36
+24            <intent-filter>
+24-->C:\Users\jasyn\OneDrive\Dokumenty\S5\ProgramowanieUrzadzenMobilnych\Figury\app\src\main\AndroidManifest.xml:15:13-19:29
+25                <action android:name="android.intent.action.MAIN" />
+25-->C:\Users\jasyn\OneDrive\Dokumenty\S5\ProgramowanieUrzadzenMobilnych\Figury\app\src\main\AndroidManifest.xml:16:17-69
+25-->C:\Users\jasyn\OneDrive\Dokumenty\S5\ProgramowanieUrzadzenMobilnych\Figury\app\src\main\AndroidManifest.xml:16:25-66
+26
+27                <category android:name="android.intent.category.LAUNCHER" />
+27-->C:\Users\jasyn\OneDrive\Dokumenty\S5\ProgramowanieUrzadzenMobilnych\Figury\app\src\main\AndroidManifest.xml:18:17-77
+27-->C:\Users\jasyn\OneDrive\Dokumenty\S5\ProgramowanieUrzadzenMobilnych\Figury\app\src\main\AndroidManifest.xml:18:27-74
+28            </intent-filter>
+29        </activity>
+30        <activity
+30-->C:\Users\jasyn\OneDrive\Dokumenty\S5\ProgramowanieUrzadzenMobilnych\Figury\app\src\main\AndroidManifest.xml:21:9-23:39
+31            android:name="com.example.figury.Activities.Przegrana"
+31-->C:\Users\jasyn\OneDrive\Dokumenty\S5\ProgramowanieUrzadzenMobilnych\Figury\app\src\main\AndroidManifest.xml:22:13-49
+32            android:exported="true" />
+32-->C:\Users\jasyn\OneDrive\Dokumenty\S5\ProgramowanieUrzadzenMobilnych\Figury\app\src\main\AndroidManifest.xml:23:13-36
+33        <activity
+33-->C:\Users\jasyn\OneDrive\Dokumenty\S5\ProgramowanieUrzadzenMobilnych\Figury\app\src\main\AndroidManifest.xml:24:9-26:39
+34            android:name="com.example.figury.Activities.Zwyciestwo"
+34-->C:\Users\jasyn\OneDrive\Dokumenty\S5\ProgramowanieUrzadzenMobilnych\Figury\app\src\main\AndroidManifest.xml:25:13-50
+35            android:exported="true" />
+35-->C:\Users\jasyn\OneDrive\Dokumenty\S5\ProgramowanieUrzadzenMobilnych\Figury\app\src\main\AndroidManifest.xml:26:13-36
+36        <activity
+36-->C:\Users\jasyn\OneDrive\Dokumenty\S5\ProgramowanieUrzadzenMobilnych\Figury\app\src\main\AndroidManifest.xml:27:9-29:39
+37            android:name="com.example.figury.Activities.AktywnoscZFigura"
+37-->C:\Users\jasyn\OneDrive\Dokumenty\S5\ProgramowanieUrzadzenMobilnych\Figury\app\src\main\AndroidManifest.xml:28:13-56
+38            android:exported="true" />
+38-->C:\Users\jasyn\OneDrive\Dokumenty\S5\ProgramowanieUrzadzenMobilnych\Figury\app\src\main\AndroidManifest.xml:29:13-36
+39        <activity
+39-->C:\Users\jasyn\OneDrive\Dokumenty\S5\ProgramowanieUrzadzenMobilnych\Figury\app\src\main\AndroidManifest.xml:30:9-38:20
+40            android:name="com.example.figury.Activities.MainActivity"
+40-->C:\Users\jasyn\OneDrive\Dokumenty\S5\ProgramowanieUrzadzenMobilnych\Figury\app\src\main\AndroidManifest.xml:31:13-52
+41            android:exported="true" >
+41-->C:\Users\jasyn\OneDrive\Dokumenty\S5\ProgramowanieUrzadzenMobilnych\Figury\app\src\main\AndroidManifest.xml:32:13-36
+42            <intent-filter>
+42-->C:\Users\jasyn\OneDrive\Dokumenty\S5\ProgramowanieUrzadzenMobilnych\Figury\app\src\main\AndroidManifest.xml:15:13-19:29
+43                <action android:name="android.intent.action.MAIN" />
+43-->C:\Users\jasyn\OneDrive\Dokumenty\S5\ProgramowanieUrzadzenMobilnych\Figury\app\src\main\AndroidManifest.xml:16:17-69
+43-->C:\Users\jasyn\OneDrive\Dokumenty\S5\ProgramowanieUrzadzenMobilnych\Figury\app\src\main\AndroidManifest.xml:16:25-66
+44
+45                <category android:name="android.intent.category.LAUNCHER" />
+45-->C:\Users\jasyn\OneDrive\Dokumenty\S5\ProgramowanieUrzadzenMobilnych\Figury\app\src\main\AndroidManifest.xml:18:17-77
+45-->C:\Users\jasyn\OneDrive\Dokumenty\S5\ProgramowanieUrzadzenMobilnych\Figury\app\src\main\AndroidManifest.xml:18:27-74
+46            </intent-filter>
+47        </activity>
+48
+49        <provider
+49-->[androidx.emoji2:emoji2:1.0.0] C:\Users\jasyn\.gradle\caches\transforms-3\8b7c53cedc320aafa8740bc99100eae7\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+50            android:name="androidx.startup.InitializationProvider"
+50-->[androidx.emoji2:emoji2:1.0.0] C:\Users\jasyn\.gradle\caches\transforms-3\8b7c53cedc320aafa8740bc99100eae7\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+51            android:authorities="com.example.figury.androidx-startup"
+51-->[androidx.emoji2:emoji2:1.0.0] C:\Users\jasyn\.gradle\caches\transforms-3\8b7c53cedc320aafa8740bc99100eae7\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+52            android:exported="false" >
+52-->[androidx.emoji2:emoji2:1.0.0] C:\Users\jasyn\.gradle\caches\transforms-3\8b7c53cedc320aafa8740bc99100eae7\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+53            <meta-data
+53-->[androidx.emoji2:emoji2:1.0.0] C:\Users\jasyn\.gradle\caches\transforms-3\8b7c53cedc320aafa8740bc99100eae7\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+54                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+54-->[androidx.emoji2:emoji2:1.0.0] C:\Users\jasyn\.gradle\caches\transforms-3\8b7c53cedc320aafa8740bc99100eae7\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+55                android:value="androidx.startup" />
+55-->[androidx.emoji2:emoji2:1.0.0] C:\Users\jasyn\.gradle\caches\transforms-3\8b7c53cedc320aafa8740bc99100eae7\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+56            <meta-data
+56-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\jasyn\.gradle\caches\transforms-3\e3d5f7348f31abeaadb43deed4aab633\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+57                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+57-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\jasyn\.gradle\caches\transforms-3\e3d5f7348f31abeaadb43deed4aab633\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+58                android:value="androidx.startup" />
+58-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\jasyn\.gradle\caches\transforms-3\e3d5f7348f31abeaadb43deed4aab633\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+59        </provider>
+60    </application>
+61
+62</manifest>

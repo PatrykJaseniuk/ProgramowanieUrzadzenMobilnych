@@ -1,0 +1,35 @@
+com/example/figury/FiguraNazwa.java
+ com.example.figury.FiguraNazwa
+com/example/figury/figury/TrojkatRownoboczny.java
+ com.example.figury.figury.TrojkatRownoboczny
+com/example/figury/figury/Rownoleglobok.java
+ com.example.figury.figury.Rownoleglobok
+com/example/figury/figury/Figura.java
+ com.example.figury.figury.Figura
+com/example/figury/figury/Trapez.java
+ com.example.figury.figury.Trapez
+com/example/figury/figury/Kolo.java
+ com.example.figury.figury.Kolo
+com/example/figury/StanyGraczy.java
+ com.example.figury.StanyGraczy
+ com.example.figury.StanyGraczy$Gracz
+com/example/figury/figury/Kwadrat.java
+ com.example.figury.figury.Kwadrat
+com/example/figury/BuildConfig.java
+ com.example.figury.BuildConfig
+com/example/figury/figury/TrojkatProstokatny.java
+ com.example.figury.figury.TrojkatProstokatny
+com/example/figury/figury/Prostokat.java
+ com.example.figury.figury.Prostokat
+com/example/figury/Activities/MainActivity.java
+ com.example.figury.Activities.MainActivity
+com/example/figury/Activities/AktywnoscZFigura.java
+ com.example.figury.Activities.AktywnoscZFigura
+ com.example.figury.Activities.AktywnoscZFigura$1
+com/example/figury/Activities/Zwyciestwo.java
+ com.example.figury.Activities.Zwyciestwo
+com/example/figury/Activities/WyborGracza.java
+ com.example.figury.Activities.WyborGracza
+ com.example.figury.Activities.WyborGracza$1
+com/example/figury/Activities/Przegrana.java
+ com.example.figury.Activities.Przegrana

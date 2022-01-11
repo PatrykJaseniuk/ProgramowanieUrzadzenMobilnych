@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\Figury\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\Figury\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\Figury\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\Figury\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\Figury\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\Figury\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\Figury\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_przegrana.xml.flat",
+        "source": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\Figury\\app\\src\\main\\res\\layout\\activity_przegrana.xml"
+    },
+    {
+        "merged": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\Figury\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\Figury\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\Figury\\app\\build\\intermediates\\merged_res\\debug\\drawable_porazk_mala.png.flat",
+        "source": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\Figury\\app\\src\\main\\res\\drawable\\porazk_mala.png"
+    },
+    {
+        "merged": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\Figury\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\Figury\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\Figury\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_porazka.png.flat",
+        "source": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\Figury\\app\\src\\main\\res\\drawable-v24\\porazka.png"
+    },
+    {
+        "merged": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\Figury\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\Figury\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\Figury\\app\\build\\intermediates\\merged_res\\debug\\drawable_zwyciestwo_male.jpg.flat",
+        "source": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\Figury\\app\\src\\main\\res\\drawable\\zwyciestwo_male.jpg"
+    },
+    {
+        "merged": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\Figury\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_zwyciestwo.jpg.flat",
+        "source": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\Figury\\app\\src\\main\\res\\drawable-v24\\zwyciestwo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\Figury\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\Figury\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\Figury\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\Figury\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\Figury\\app\\build\\intermediates\\merged_res\\debug\\raw_zwyciestwo.mp3.flat",
+        "source": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\Figury\\app\\src\\main\\res\\raw\\zwyciestwo.mp3"
+    },
+    {
+        "merged": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\Figury\\app\\build\\intermediates\\merged_res\\debug\\layout_tryb_nauki.xml.flat",
+        "source": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\Figury\\app\\src\\main\\res\\layout\\tryb_nauki.xml"
+    },
+    {
+        "merged": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\Figury\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_wybor_gracza.xml.flat",
+        "source": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\Figury\\app\\src\\main\\res\\layout\\activity_wybor_gracza.xml"
+    },
+    {
+        "merged": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\Figury\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\Figury\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\Figury\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\Figury\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\Figury\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\Figury\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\Figury\\app\\build\\intermediates\\merged_res\\debug\\layout_tryb_odpowiedzi.xml.flat",
+        "source": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\Figury\\app\\src\\main\\res\\layout\\tryb_odpowiedzi.xml"
+    },
+    {
+        "merged": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\Figury\\app\\build\\intermediates\\merged_res\\debug\\raw_przegrana.mp3.flat",
+        "source": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\Figury\\app\\src\\main\\res\\raw\\przegrana.mp3"
+    },
+    {
+        "merged": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\Figury\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\Figury\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\Figury\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_zwyciestwo.xml.flat",
+        "source": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\Figury\\app\\src\\main\\res\\layout\\activity_zwyciestwo.xml"
+    },
+    {
+        "merged": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\Figury\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\Figury\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\Figury\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\Figury\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\Figury\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\Figury\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    }
+]

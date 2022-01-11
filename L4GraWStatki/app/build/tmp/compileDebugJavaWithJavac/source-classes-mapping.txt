@@ -1,0 +1,31 @@
+com/example/grawstatki/GameKernel/Stany/Stan.java
+ com.example.grawstatki.GameKernel.Stany.Stan
+com/example/grawstatki/GameKernel/Gracz.java
+ com.example.grawstatki.GameKernel.Gracz
+ com.example.grawstatki.GameKernel.Gracz$Stan
+ com.example.grawstatki.GameKernel.Gracz$UstawianieStatku
+com/example/grawstatki/GameKernel/GameCore.java
+ com.example.grawstatki.GameKernel.GameCore
+com/example/grawstatki/Widok/PoleWidok.java
+ com.example.grawstatki.Widok.PoleWidok
+com/example/grawstatki/BuildConfig.java
+ com.example.grawstatki.BuildConfig
+com/example/grawstatki/GameKernel/Plansza.java
+ com.example.grawstatki.GameKernel.Plansza
+ com.example.grawstatki.GameKernel.Plansza$Pole
+com/example/grawstatki/Widok/Plansza.java
+ com.example.grawstatki.Widok.Plansza
+com/example/grawstatki/Widok/BattleActivity.java
+ com.example.grawstatki.Widok.BattleActivity
+com/example/grawstatki/Widok/PlacingShipsActivity.java
+ com.example.grawstatki.Widok.PlacingShipsActivity
+com/example/grawstatki/Widok/KoniecActivity.java
+ com.example.grawstatki.Widok.KoniecActivity
+com/example/grawstatki/Widok/WelcomeScreen.java
+ com.example.grawstatki.Widok.WelcomeScreen
+com/example/grawstatki/Widok/ZaslonaActivity.java
+ com.example.grawstatki.Widok.ZaslonaActivity
+com/example/grawstatki/GameKernel/Stany/Bitwa.java
+ com.example.grawstatki.GameKernel.Stany.Bitwa
+com/example/grawstatki/GameKernel/Stany/RozmieszczanieStatkow.java
+ com.example.grawstatki.GameKernel.Stany.RozmieszczanieStatkow
