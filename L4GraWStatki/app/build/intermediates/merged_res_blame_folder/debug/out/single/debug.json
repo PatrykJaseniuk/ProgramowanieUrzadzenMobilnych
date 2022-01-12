@@ -1,90 +1,98 @@
 [
     {
-        "merged": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\GraWStatki\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\GraWStatki\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\L4GraWStatki\\app\\build\\intermediates\\merged_res\\debug\\raw_strzal_w_statek.mp3.flat",
+        "source": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\L4GraWStatki\\app\\src\\main\\res\\raw\\strzal_w_statek.mp3"
     },
     {
-        "merged": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\GraWStatki\\app\\build\\intermediates\\merged_res\\debug\\layout_placing_ship_activity.xml.flat",
-        "source": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\GraWStatki\\app\\src\\main\\res\\layout\\placing_ship_activity.xml"
+        "merged": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\L4GraWStatki\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\L4GraWStatki\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\GraWStatki\\app\\build\\intermediates\\merged_res\\debug\\drawable_powitanie.jpg.flat",
-        "source": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\GraWStatki\\app\\src\\main\\res\\drawable\\powitanie.jpg"
+        "merged": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\L4GraWStatki\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\L4GraWStatki\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\GraWStatki\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\GraWStatki\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\L4GraWStatki\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\L4GraWStatki\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\GraWStatki\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\GraWStatki\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\L4GraWStatki\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\L4GraWStatki\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\GraWStatki\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\GraWStatki\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\L4GraWStatki\\app\\build\\intermediates\\merged_res\\debug\\layout_placing_ship_activity.xml.flat",
+        "source": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\L4GraWStatki\\app\\src\\main\\res\\layout\\placing_ship_activity.xml"
     },
     {
-        "merged": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\GraWStatki\\app\\build\\intermediates\\merged_res\\debug\\raw_strzal_w_wode.mp3.flat",
-        "source": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\GraWStatki\\app\\src\\main\\res\\raw\\strzal_w_wode.mp3"
+        "merged": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\L4GraWStatki\\app\\build\\intermediates\\merged_res\\debug\\layout_welcome_screen.xml.flat",
+        "source": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\L4GraWStatki\\app\\src\\main\\res\\layout\\welcome_screen.xml"
     },
     {
-        "merged": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\GraWStatki\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\GraWStatki\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\L4GraWStatki\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_my_ships.xml.flat",
+        "source": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\L4GraWStatki\\app\\src\\main\\res\\layout\\activity_my_ships.xml"
     },
     {
-        "merged": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\GraWStatki\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_next_player.xml.flat",
-        "source": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\GraWStatki\\app\\src\\main\\res\\layout\\activity_next_player.xml"
+        "merged": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\L4GraWStatki\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\L4GraWStatki\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\GraWStatki\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\GraWStatki\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\L4GraWStatki\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\L4GraWStatki\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\GraWStatki\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\GraWStatki\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\L4GraWStatki\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_zapisz.xml.flat",
+        "source": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\L4GraWStatki\\app\\src\\main\\res\\layout\\activity_zapisz.xml"
     },
     {
-        "merged": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\GraWStatki\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_koniec.xml.flat",
-        "source": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\GraWStatki\\app\\src\\main\\res\\layout\\activity_koniec.xml"
+        "merged": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\L4GraWStatki\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\L4GraWStatki\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\GraWStatki\\app\\build\\intermediates\\merged_res\\debug\\layout_welcome_screen.xml.flat",
-        "source": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\GraWStatki\\app\\src\\main\\res\\layout\\welcome_screen.xml"
+        "merged": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\L4GraWStatki\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\L4GraWStatki\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\GraWStatki\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\GraWStatki\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\L4GraWStatki\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_koniec.xml.flat",
+        "source": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\L4GraWStatki\\app\\src\\main\\res\\layout\\activity_koniec.xml"
     },
     {
-        "merged": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\GraWStatki\\app\\build\\intermediates\\merged_res\\debug\\raw_strzal_w_statek.mp3.flat",
-        "source": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\GraWStatki\\app\\src\\main\\res\\raw\\strzal_w_statek.mp3"
+        "merged": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\L4GraWStatki\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\L4GraWStatki\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\GraWStatki\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\GraWStatki\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\L4GraWStatki\\app\\build\\intermediates\\merged_res\\debug\\raw_strzal_w_wode.mp3.flat",
+        "source": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\L4GraWStatki\\app\\src\\main\\res\\raw\\strzal_w_wode.mp3"
     },
     {
-        "merged": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\GraWStatki\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\GraWStatki\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\L4GraWStatki\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\L4GraWStatki\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\GraWStatki\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\GraWStatki\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\L4GraWStatki\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_next_player.xml.flat",
+        "source": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\L4GraWStatki\\app\\src\\main\\res\\layout\\activity_next_player.xml"
     },
     {
-        "merged": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\GraWStatki\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\GraWStatki\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\L4GraWStatki\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\L4GraWStatki\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\GraWStatki\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_my_ships.xml.flat",
-        "source": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\GraWStatki\\app\\src\\main\\res\\layout\\activity_my_ships.xml"
+        "merged": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\L4GraWStatki\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\L4GraWStatki\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\GraWStatki\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\GraWStatki\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\L4GraWStatki\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_wczytaj.xml.flat",
+        "source": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\L4GraWStatki\\app\\src\\main\\res\\layout\\activity_wczytaj.xml"
     },
     {
-        "merged": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\GraWStatki\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\GraWStatki\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+        "merged": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\L4GraWStatki\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\L4GraWStatki\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\L4GraWStatki\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\L4GraWStatki\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\L4GraWStatki\\app\\build\\intermediates\\merged_res\\debug\\drawable_powitanie.jpg.flat",
+        "source": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\L4GraWStatki\\app\\src\\main\\res\\drawable\\powitanie.jpg"
     }
 ]

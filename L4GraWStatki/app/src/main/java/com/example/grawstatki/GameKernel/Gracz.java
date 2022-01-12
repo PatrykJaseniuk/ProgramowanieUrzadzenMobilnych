@@ -2,9 +2,10 @@ package com.example.grawstatki.GameKernel;
 
 import android.graphics.Color;
 
+import java.io.Serializable;
 import java.util.function.BiFunction;
 
-public class Gracz
+public class Gracz implements Serializable
 {
     Gracz()
     {
@@ -52,7 +53,7 @@ private static int liczbaGraczy=0;
     }
 
 
-    public class UstawianieStatku {
+    public class UstawianieStatku implements Serializable {
 
         public int getColorProxy(int x, int y, BiFunction<Integer,Integer,Integer> getColor)
         {

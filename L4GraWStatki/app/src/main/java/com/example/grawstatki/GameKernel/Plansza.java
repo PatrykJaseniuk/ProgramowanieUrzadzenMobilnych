@@ -2,7 +2,9 @@ package com.example.grawstatki.GameKernel;
 
 import android.graphics.Color;
 
-public class Plansza {
+import java.io.Serializable;
+
+public class Plansza implements Serializable {
     public final int height = 10;
     public final int width = 10;
     private Pole plansza[][] = new Pole[width][height];
@@ -78,7 +80,7 @@ public class Plansza {
     }
 
 
-    class Pole {
+    class Pole implements Serializable {
         int color = Color.BLUE;
         boolean czyStatek=false;
         boolean czyTrafiony=false;

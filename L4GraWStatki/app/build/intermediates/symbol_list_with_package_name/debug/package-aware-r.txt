@@ -1936,9 +1936,12 @@ id button
 id button2
 id button3
 id button4
+id button5
 id button6
 id buttonPanel
 id buttonPrzelaczWidok
+id buttonWczytaj
+id buttonZapisz
 id cache_measures
 id callMeasure
 id cancel_button
@@ -2010,6 +2013,7 @@ id easeIn
 id easeInOut
 id easeOut
 id east
+id editTextNazwaZapisu
 id edit_query
 id elastic
 id end
@@ -2075,6 +2079,7 @@ id line1
 id line3
 id linear
 id listMode
+id listView
 id list_item
 id masked
 id match_constraint
@@ -2271,6 +2276,7 @@ id textTop
 id textView
 id textView2
 id textView3
+id textView4
 id textView4Zwyciestwo
 id textViewPozostalaIloscStatkow
 id text_input_end_icon
@@ -2390,6 +2396,8 @@ layout abc_tooltip
 layout activity_koniec
 layout activity_my_ships
 layout activity_next_player
+layout activity_wczytaj
+layout activity_zapisz
 layout custom_dialog
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog

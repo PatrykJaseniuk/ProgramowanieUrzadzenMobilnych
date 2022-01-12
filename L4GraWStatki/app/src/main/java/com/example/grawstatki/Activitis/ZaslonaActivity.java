@@ -1,4 +1,4 @@
-package com.example.grawstatki.Widok;
+package com.example.grawstatki.Activitis;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -29,7 +29,11 @@ public class ZaslonaActivity extends AppCompatActivity {
         GameCore.nextPlayer(this);
     }
 
-
+    @Override
+    public void onBackPressed()
+    {
+        GameCore.menuGlowne(this);
+    }
 
 
 

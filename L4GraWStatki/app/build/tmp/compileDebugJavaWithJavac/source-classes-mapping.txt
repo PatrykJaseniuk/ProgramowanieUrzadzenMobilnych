@@ -1,31 +1,38 @@
 com/example/grawstatki/GameKernel/Stany/Stan.java
  com.example.grawstatki.GameKernel.Stany.Stan
+com/example/grawstatki/BuildConfig.java
+ com.example.grawstatki.BuildConfig
+com/example/grawstatki/GameKernel/Zapis.java
+ com.example.grawstatki.GameKernel.Zapis
 com/example/grawstatki/GameKernel/Gracz.java
  com.example.grawstatki.GameKernel.Gracz
  com.example.grawstatki.GameKernel.Gracz$Stan
  com.example.grawstatki.GameKernel.Gracz$UstawianieStatku
-com/example/grawstatki/GameKernel/GameCore.java
- com.example.grawstatki.GameKernel.GameCore
 com/example/grawstatki/Widok/PoleWidok.java
  com.example.grawstatki.Widok.PoleWidok
-com/example/grawstatki/BuildConfig.java
- com.example.grawstatki.BuildConfig
 com/example/grawstatki/GameKernel/Plansza.java
  com.example.grawstatki.GameKernel.Plansza
  com.example.grawstatki.GameKernel.Plansza$Pole
-com/example/grawstatki/Widok/Plansza.java
- com.example.grawstatki.Widok.Plansza
-com/example/grawstatki/Widok/BattleActivity.java
- com.example.grawstatki.Widok.BattleActivity
-com/example/grawstatki/Widok/PlacingShipsActivity.java
- com.example.grawstatki.Widok.PlacingShipsActivity
-com/example/grawstatki/Widok/KoniecActivity.java
- com.example.grawstatki.Widok.KoniecActivity
-com/example/grawstatki/Widok/WelcomeScreen.java
- com.example.grawstatki.Widok.WelcomeScreen
-com/example/grawstatki/Widok/ZaslonaActivity.java
- com.example.grawstatki.Widok.ZaslonaActivity
+com/example/grawstatki/Activitis/WelcomeScreenActivity.java
+ com.example.grawstatki.Activitis.WelcomeScreenActivity
 com/example/grawstatki/GameKernel/Stany/Bitwa.java
  com.example.grawstatki.GameKernel.Stany.Bitwa
+com/example/grawstatki/Widok/Plansza.java
+ com.example.grawstatki.Widok.Plansza
+com/example/grawstatki/Activitis/BattleActivity.java
+ com.example.grawstatki.Activitis.BattleActivity
+com/example/grawstatki/Activitis/WczytajActivity.java
+ com.example.grawstatki.Activitis.WczytajActivity
+ com.example.grawstatki.Activitis.WczytajActivity$1
+com/example/grawstatki/Activitis/ZapiszActivity.java
+ com.example.grawstatki.Activitis.ZapiszActivity
+com/example/grawstatki/GameKernel/GameCore.java
+ com.example.grawstatki.GameKernel.GameCore
+com/example/grawstatki/Activitis/PlacingShipsActivity.java
+ com.example.grawstatki.Activitis.PlacingShipsActivity
+com/example/grawstatki/Activitis/ZaslonaActivity.java
+ com.example.grawstatki.Activitis.ZaslonaActivity
 com/example/grawstatki/GameKernel/Stany/RozmieszczanieStatkow.java
  com.example.grawstatki.GameKernel.Stany.RozmieszczanieStatkow
+com/example/grawstatki/Activitis/KoniecActivity.java
+ com.example.grawstatki.Activitis.KoniecActivity

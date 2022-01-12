@@ -20,19 +20,25 @@
         android:testOnly="true"
         android:theme="@style/Theme.GraWStatki" >
         <activity
-            android:name="com.example.grawstatki.Widok.KoniecActivity"
+            android:name="com.example.grawstatki.Activitis.WczytajActivity"
             android:exported="true" />
         <activity
-            android:name="com.example.grawstatki.Widok.BattleActivity"
+            android:name="com.example.grawstatki.Activitis.ZapiszActivity"
             android:exported="true" />
         <activity
-            android:name="com.example.grawstatki.Widok.ZaslonaActivity"
+            android:name="com.example.grawstatki.Activitis.KoniecActivity"
             android:exported="true" />
         <activity
-            android:name="com.example.grawstatki.Widok.PlacingShipsActivity"
+            android:name="com.example.grawstatki.Activitis.BattleActivity"
             android:exported="true" />
         <activity
-            android:name="com.example.grawstatki.Widok.WelcomeScreen"
+            android:name="com.example.grawstatki.Activitis.ZaslonaActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.example.grawstatki.Activitis.PlacingShipsActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.example.grawstatki.Activitis.WelcomeScreenActivity"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

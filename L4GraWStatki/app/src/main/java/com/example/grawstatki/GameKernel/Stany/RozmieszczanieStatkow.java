@@ -4,8 +4,8 @@ import android.content.Context;
 import android.content.Intent;
 
 import com.example.grawstatki.GameKernel.GameCore;
-import com.example.grawstatki.Widok.PlacingShipsActivity;
-import com.example.grawstatki.Widok.ZaslonaActivity;
+import com.example.grawstatki.Activitis.PlacingShipsActivity;
+import com.example.grawstatki.Activitis.ZaslonaActivity;
 
 public class RozmieszczanieStatkow implements Stan
 {
@@ -44,5 +44,10 @@ boolean czyWyswietlonoZaslone = false;
     @Override
     public void fieldClicked(int x, int y) {
         GameCore.aktualnyGracz.setShip(x,y);
+    }
+
+    @Override
+    public void reset() {
+        czyWyswietlonoZaslone = false;
     }
 }

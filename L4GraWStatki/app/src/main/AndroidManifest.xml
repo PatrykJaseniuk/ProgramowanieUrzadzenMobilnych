@@ -10,19 +10,25 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.GraWStatki">
         <activity
-            android:name=".Widok.KoniecActivity"
+            android:name=".Activitis.WczytajActivity"
             android:exported="true" />
         <activity
-            android:name=".Widok.BattleActivity"
+            android:name=".Activitis.ZapiszActivity"
             android:exported="true" />
         <activity
-            android:name=".Widok.ZaslonaActivity"
+            android:name=".Activitis.KoniecActivity"
             android:exported="true" />
         <activity
-            android:name=".Widok.PlacingShipsActivity"
+            android:name=".Activitis.BattleActivity"
             android:exported="true" />
         <activity
-            android:name=".Widok.WelcomeScreen"
+            android:name=".Activitis.ZaslonaActivity"
+            android:exported="true" />
+        <activity
+            android:name=".Activitis.PlacingShipsActivity"
+            android:exported="true" />
+        <activity
+            android:name=".Activitis.WelcomeScreenActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

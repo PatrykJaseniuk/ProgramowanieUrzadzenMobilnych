@@ -1,4 +1,4 @@
-package com.example.grawstatki.Widok;
+package com.example.grawstatki.Activitis;
 
 import androidx.annotation.RequiresApi;
 import androidx.appcompat.app.AppCompatActivity;
@@ -10,6 +10,7 @@ import android.widget.TextView;
 
 import com.example.grawstatki.GameKernel.GameCore;
 import com.example.grawstatki.R;
+import com.example.grawstatki.Widok.Plansza;
 
 import java.util.function.Function;
 
@@ -53,6 +54,12 @@ public class PlacingShipsActivity extends AppCompatActivity {
         };
         plansza.odswierz();
         odswierz();
+    }
+
+    @Override
+    public void onBackPressed()
+    {
+        GameCore.menuGlowne(this);
     }
 
     public void odswierz() {

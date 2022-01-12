@@ -1,4 +1,4 @@
-package com.example.grawstatki.Widok;
+package com.example.grawstatki.Activitis;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -8,6 +8,7 @@ import android.view.View;
 
 import com.example.grawstatki.GameKernel.GameCore;
 import com.example.grawstatki.R;
+import com.example.grawstatki.Widok.Plansza;
 
 public class BattleActivity extends AppCompatActivity {
 
@@ -22,6 +23,12 @@ public class BattleActivity extends AppCompatActivity {
         plansza.odswierz();
 
         inicjalizowanieMediaPlayerow();
+    }
+
+    @Override
+    public void onBackPressed()
+    {
+       GameCore.menuGlowne(this);
     }
 
     private void inicjalizowanieMediaPlayerow() {

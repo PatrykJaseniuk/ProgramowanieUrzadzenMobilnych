@@ -1,4 +1,4 @@
-package com.example.grawstatki.Widok;
+package com.example.grawstatki.Activitis;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -16,5 +16,11 @@ public class KoniecActivity extends AppCompatActivity {
         setContentView(R.layout.activity_koniec);
         TextView tv= findViewById(R.id.textView4Zwyciestwo);
         tv.setText("Zwyciężył Gracz "+ GameCore.aktualnyGracz.id);
+    }
+
+    @Override
+    public void onBackPressed()
+    {
+        GameCore.menuGlowne(this);
     }
 }

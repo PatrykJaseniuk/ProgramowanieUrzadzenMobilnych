@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\GraWStatki\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "outputFile": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\L4GraWStatki\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
             "map": [
                 {
                     "source": "C:\\Users\\jasyn\\.gradle\\caches\\transforms-3\\b6875e6c8278ccf12a9733441eb70c4c\\transformed\\appcompat-1.4.0\\res\\values-night-v8\\values-night-v8.xml",
@@ -38,14 +38,14 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\GraWStatki\\app\\src\\main\\res\\values-night\\themes.xml",
+                    "source": "C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\ProgramowanieUrzadzenMobilnych\\L4GraWStatki\\app\\src\\main\\res\\values-night\\themes.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
-                        "startOffsets": "100",
+                        "startOffsets": "102",
                         "endLines": "14",
                         "endColumns": "12",
-                        "endOffsets": "819"
+                        "endOffsets": "833"
                     },
                     "to": {
                         "startLines": "9",
