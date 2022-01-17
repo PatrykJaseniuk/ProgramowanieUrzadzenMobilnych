@@ -44,6 +44,5 @@ public class WczytajActivity extends AppCompatActivity {
             ArrayAdapter<String> adapter = new ArrayAdapter(this, android.R.layout.simple_list_item_1, listaZapisow);
             lv.setAdapter(adapter);
         }
-
     }
 }

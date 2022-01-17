@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Activities.WprowadzanieWalutyActivity">
+
+    <EditText
+        android:id="@+id/editTextCena"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:ems="10"
+        android:inputType="number"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/editTextTextNazwaWaluty" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Nazwa Waluty"
+        app:layout_constraintBottom_toTopOf="@+id/editTextTextNazwaWaluty"
+        app:layout_constraintStart_toStartOf="@+id/editTextTextNazwaWaluty" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Cena w PLN  bez prowizji"
+        app:layout_constraintBottom_toTopOf="@+id/editTextCena"
+        app:layout_constraintStart_toStartOf="@+id/editTextCena" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:onClick="onClick"
+        android:text="dodaj"
+        app:layout_constraintEnd_toEndOf="@+id/editTextCena"
+        app:layout_constraintStart_toStartOf="@+id/editTextCena"
+        app:layout_constraintTop_toBottomOf="@+id/editTextCena" />
+
+    <EditText
+        android:id="@+id/editTextTextNazwaWaluty"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="Name"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="114dp" />
+</androidx.constraintlayout.widget.ConstraintLayout>
