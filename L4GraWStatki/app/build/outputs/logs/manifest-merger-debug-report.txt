@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\jasyn\OneDrive\Dokumenty\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml:2:1-41:12
-INJECTED from C:\Users\jasyn\OneDrive\Dokumenty\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml:2:1-41:12
-INJECTED from C:\Users\jasyn\OneDrive\Dokumenty\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml:2:1-41:12
-INJECTED from C:\Users\jasyn\OneDrive\Dokumenty\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml:2:1-41:12
+ADDED from C:\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml:2:1-41:12
 MERGED from [com.google.android.material:material:1.4.0] C:\Users\jasyn\.gradle\caches\transforms-3\25012fcc08d4c5cf5a2844c1a21a6fbe\transformed\material-1.4.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] C:\Users\jasyn\.gradle\caches\transforms-3\a11786a4a7d57dd01c1941ec7e43bc28\transformed\constraintlayout-2.1.2\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat:1.4.0] C:\Users\jasyn\.gradle\caches\transforms-3\b6875e6c8278ccf12a9733441eb70c4c\transformed\appcompat-1.4.0\AndroidManifest.xml:17:1-24:12
@@ -43,25 +43,25 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\jasyn\.gradle\ca
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\jasyn\.gradle\caches\transforms-3\8ca7186ef83368b8549809152ed428ce\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] C:\Users\jasyn\.gradle\caches\transforms-3\485578c608519582fc751ff2f7c88476\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\jasyn\.gradle\caches\transforms-3\437e772228a813b0fd4bde3f8ec9dd31\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\Users\jasyn\OneDrive\Dokumenty\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml:2:1-41:12
-INJECTED from C:\Users\jasyn\OneDrive\Dokumenty\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml:2:1-41:12
-INJECTED from C:\Users\jasyn\OneDrive\Dokumenty\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml:2:1-41:12
 	package
-		ADDED from C:\Users\jasyn\OneDrive\Dokumenty\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml:3:5-37
-		INJECTED from C:\Users\jasyn\OneDrive\Dokumenty\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\jasyn\OneDrive\Dokumenty\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml
+		ADDED from C:\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from C:\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml
+		INJECTED from C:\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\jasyn\OneDrive\Dokumenty\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\jasyn\OneDrive\Dokumenty\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml:2:1-41:12
-		INJECTED from C:\Users\jasyn\OneDrive\Dokumenty\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml
+		INJECTED from C:\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml
+		ADDED from C:\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml:2:1-41:12
+		INJECTED from C:\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\jasyn\OneDrive\Dokumenty\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\jasyn\OneDrive\Dokumenty\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml:2:1-41:12
-		INJECTED from C:\Users\jasyn\OneDrive\Dokumenty\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml
+		INJECTED from C:\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml
+		ADDED from C:\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml:2:1-41:12
+		INJECTED from C:\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\jasyn\OneDrive\Dokumenty\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\jasyn\OneDrive\Dokumenty\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml:5:5-39:19
+ADDED from C:\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml:5:5-39:19
 MERGED from [com.google.android.material:material:1.4.0] C:\Users\jasyn\.gradle\caches\transforms-3\25012fcc08d4c5cf5a2844c1a21a6fbe\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.4.0] C:\Users\jasyn\.gradle\caches\transforms-3\25012fcc08d4c5cf5a2844c1a21a6fbe\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] C:\Users\jasyn\.gradle\caches\transforms-3\a11786a4a7d57dd01c1941ec7e43bc28\transformed\constraintlayout-2.1.2\AndroidManifest.xml:9:5-20
@@ -79,73 +79,73 @@ MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\jasyn\.gradle\cach
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.7.0] C:\Users\jasyn\.gradle\caches\transforms-3\376792b261fdcbfd86757f02ea12377d\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from C:\Users\jasyn\OneDrive\Dokumenty\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml:10:9-35
+		ADDED from C:\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml:10:9-35
 	android:label
-		ADDED from C:\Users\jasyn\OneDrive\Dokumenty\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml:8:9-41
+		ADDED from C:\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml:8:9-41
 	android:roundIcon
-		ADDED from C:\Users\jasyn\OneDrive\Dokumenty\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml:9:9-54
+		ADDED from C:\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml:9:9-54
 	android:icon
-		ADDED from C:\Users\jasyn\OneDrive\Dokumenty\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml:7:9-43
+		ADDED from C:\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml:7:9-43
 	android:allowBackup
-		ADDED from C:\Users\jasyn\OneDrive\Dokumenty\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from C:\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from C:\Users\jasyn\OneDrive\Dokumenty\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml:11:9-48
+		ADDED from C:\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml:11:9-48
 activity#com.example.grawstatki.Activitis.WczytajActivity
-ADDED from C:\Users\jasyn\OneDrive\Dokumenty\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml:12:9-14:39
+ADDED from C:\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml:12:9-14:39
 	android:exported
-		ADDED from C:\Users\jasyn\OneDrive\Dokumenty\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml:14:13-36
+		ADDED from C:\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml:14:13-36
 	android:name
-		ADDED from C:\Users\jasyn\OneDrive\Dokumenty\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml:13:13-54
+		ADDED from C:\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml:13:13-54
 activity#com.example.grawstatki.Activitis.ZapiszActivity
-ADDED from C:\Users\jasyn\OneDrive\Dokumenty\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml:15:9-17:39
+ADDED from C:\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml:15:9-17:39
 	android:exported
-		ADDED from C:\Users\jasyn\OneDrive\Dokumenty\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml:17:13-36
+		ADDED from C:\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml:17:13-36
 	android:name
-		ADDED from C:\Users\jasyn\OneDrive\Dokumenty\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml:16:13-53
+		ADDED from C:\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml:16:13-53
 activity#com.example.grawstatki.Activitis.KoniecActivity
-ADDED from C:\Users\jasyn\OneDrive\Dokumenty\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml:18:9-20:39
+ADDED from C:\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml:18:9-20:39
 	android:exported
-		ADDED from C:\Users\jasyn\OneDrive\Dokumenty\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml:20:13-36
+		ADDED from C:\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml:20:13-36
 	android:name
-		ADDED from C:\Users\jasyn\OneDrive\Dokumenty\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml:19:13-53
+		ADDED from C:\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml:19:13-53
 activity#com.example.grawstatki.Activitis.BattleActivity
-ADDED from C:\Users\jasyn\OneDrive\Dokumenty\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml:21:9-23:39
+ADDED from C:\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml:21:9-23:39
 	android:exported
-		ADDED from C:\Users\jasyn\OneDrive\Dokumenty\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml:23:13-36
+		ADDED from C:\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml:23:13-36
 	android:name
-		ADDED from C:\Users\jasyn\OneDrive\Dokumenty\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml:22:13-53
+		ADDED from C:\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml:22:13-53
 activity#com.example.grawstatki.Activitis.ZaslonaActivity
-ADDED from C:\Users\jasyn\OneDrive\Dokumenty\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml:24:9-26:39
+ADDED from C:\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml:24:9-26:39
 	android:exported
-		ADDED from C:\Users\jasyn\OneDrive\Dokumenty\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml:26:13-36
+		ADDED from C:\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml:26:13-36
 	android:name
-		ADDED from C:\Users\jasyn\OneDrive\Dokumenty\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml:25:13-54
+		ADDED from C:\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml:25:13-54
 activity#com.example.grawstatki.Activitis.PlacingShipsActivity
-ADDED from C:\Users\jasyn\OneDrive\Dokumenty\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml:27:9-29:39
+ADDED from C:\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml:27:9-29:39
 	android:exported
-		ADDED from C:\Users\jasyn\OneDrive\Dokumenty\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml:29:13-36
+		ADDED from C:\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml:29:13-36
 	android:name
-		ADDED from C:\Users\jasyn\OneDrive\Dokumenty\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml:28:13-59
+		ADDED from C:\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml:28:13-59
 activity#com.example.grawstatki.Activitis.WelcomeScreenActivity
-ADDED from C:\Users\jasyn\OneDrive\Dokumenty\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml:30:9-38:20
+ADDED from C:\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml:30:9-38:20
 	android:exported
-		ADDED from C:\Users\jasyn\OneDrive\Dokumenty\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml:32:13-36
+		ADDED from C:\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml:32:13-36
 	android:name
-		ADDED from C:\Users\jasyn\OneDrive\Dokumenty\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml:31:13-60
+		ADDED from C:\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml:31:13-60
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\jasyn\OneDrive\Dokumenty\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml:33:13-37:29
+ADDED from C:\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml:33:13-37:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\jasyn\OneDrive\Dokumenty\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml:34:17-69
+ADDED from C:\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml:34:17-69
 	android:name
-		ADDED from C:\Users\jasyn\OneDrive\Dokumenty\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml:34:25-66
+		ADDED from C:\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml:34:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\jasyn\OneDrive\Dokumenty\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml:36:17-77
+ADDED from C:\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml:36:17-77
 	android:name
-		ADDED from C:\Users\jasyn\OneDrive\Dokumenty\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml:36:27-74
+		ADDED from C:\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml:36:27-74
 uses-sdk
-INJECTED from C:\Users\jasyn\OneDrive\Dokumenty\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\jasyn\OneDrive\Dokumenty\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\jasyn\OneDrive\Dokumenty\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml
+INJECTED from C:\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml
+INJECTED from C:\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml
 MERGED from [com.google.android.material:material:1.4.0] C:\Users\jasyn\.gradle\caches\transforms-3\25012fcc08d4c5cf5a2844c1a21a6fbe\transformed\material-1.4.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.material:material:1.4.0] C:\Users\jasyn\.gradle\caches\transforms-3\25012fcc08d4c5cf5a2844c1a21a6fbe\transformed\material-1.4.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] C:\Users\jasyn\.gradle\caches\transforms-3\a11786a4a7d57dd01c1941ec7e43bc28\transformed\constraintlayout-2.1.2\AndroidManifest.xml:5:5-7:41
@@ -224,16 +224,16 @@ MERGED from [androidx.print:print:1.0.0] C:\Users\jasyn\.gradle\caches\transform
 MERGED from [androidx.print:print:1.0.0] C:\Users\jasyn\.gradle\caches\transforms-3\485578c608519582fc751ff2f7c88476\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\jasyn\.gradle\caches\transforms-3\437e772228a813b0fd4bde3f8ec9dd31\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\jasyn\.gradle\caches\transforms-3\437e772228a813b0fd4bde3f8ec9dd31\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
-INJECTED from C:\Users\jasyn\OneDrive\Dokumenty\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\jasyn\OneDrive\Dokumenty\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml
+INJECTED from C:\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml
+INJECTED from C:\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\jasyn\OneDrive\Dokumenty\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\jasyn\OneDrive\Dokumenty\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\jasyn\OneDrive\Dokumenty\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml
+		INJECTED from C:\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml
+		ADDED from C:\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml
+		INJECTED from C:\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\jasyn\OneDrive\Dokumenty\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\jasyn\OneDrive\Dokumenty\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\jasyn\OneDrive\Dokumenty\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml
+		INJECTED from C:\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml
+		ADDED from C:\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml
+		INJECTED from C:\S5\ProgramowanieUrzadzenMobilnych\L4GraWStatki\app\src\main\AndroidManifest.xml
 provider#androidx.startup.InitializationProvider
 ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\jasyn\.gradle\caches\transforms-3\8b7c53cedc320aafa8740bc99100eae7\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
 MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\jasyn\.gradle\caches\transforms-3\e3d5f7348f31abeaadb43deed4aab633\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20

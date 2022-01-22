@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.l8grapodchody">
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.L8GraPodchody">
+        <activity
+            android:name=".StanyActivity.RezultatOdpowiedziActivity"
+            android:exported="true" />
+        <activity
+            android:name=".StanyActivity.ZwyciestwoActiviyt"
+            android:exported="true" />
+        <activity
+            android:name=".StanyActivity.WskazowkaActivity"
+            android:exported="true" />
+        <activity
+            android:name=".StanyActivity.Pytanie.ScrollingActivity"
+            android:exported="true"
+            android:label="@string/title_activity_scrolling"
+            android:theme="@style/Theme.L8GraPodchody.NoActionBar" />
+        <activity
+            android:name=".StanyActivity.Pytanie.PytanieActivity"
+            android:exported="true" />
+        <activity
+            android:name=".StanyActivity.Rozpoczecie.MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

@@ -22,7 +22,7 @@
             android:name=".Activities.Przegrana"
             android:exported="true" />
         <activity
-            android:name=".Activities.Zwyciestwo"
+            android:name="com.example.l8grapodchody.StanyActivity.Zwyciestwo"
             android:exported="true" />
         <activity
             android:name=".Activities.AktywnoscZFigura"

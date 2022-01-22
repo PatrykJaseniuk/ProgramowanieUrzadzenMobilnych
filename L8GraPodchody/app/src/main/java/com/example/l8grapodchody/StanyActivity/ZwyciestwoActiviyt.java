@@ -1,4 +1,4 @@
-package com.example.figury.Activities;
+package com.example.l8grapodchody.StanyActivity;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -7,34 +7,23 @@ import android.media.MediaPlayer;
 import android.os.Bundle;
 import android.view.View;
 
-import com.example.figury.R;
+import com.example.l8grapodchody.Kernel;
+import com.example.l8grapodchody.R;
 
-public class Zwyciestwo extends AppCompatActivity {
+public class ZwyciestwoActiviyt extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_zwyciestwo);
+        setContentView(R.layout.activity_zwyciestwo_activiyt);
         mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.zwyciestwo);
         mediaPlayer.start();
     }
-
-    public void onClick(View v)
-    {
-        startActivity(new Intent(this,MainActivity.class));
-    }
+    MediaPlayer mediaPlayer;
 
     @Override
     protected void onPause() {
         super.onPause();
         mediaPlayer.stop();
     }
-
-    @Override
-    public void onBackPressed() {
-//        super.onBackPressed();
-        startActivity(new Intent(this, MainActivity.class));
-    }
-
-    MediaPlayer mediaPlayer;
 }

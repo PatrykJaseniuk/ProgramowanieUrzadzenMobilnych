@@ -45,7 +45,7 @@ public class OpenWeatherMap {
         return json;
     }
 
-    private static URL getUrl(String nazwaMiasta) throws MalformedURLException {
+    private static URL  getUrl(String nazwaMiasta) throws MalformedURLException {
         URL url = new URL(adres +""+nazwaMiasta+"&appid="+apiKey);
         return url;
     }

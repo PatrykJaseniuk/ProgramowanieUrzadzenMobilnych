@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".Activities.Zwyciestwo">
+    tools:context="com.example.l8grapodchody.StanyActivity.Zwyciestwo">
 
     <Button
         android:id="@+id/button4"
