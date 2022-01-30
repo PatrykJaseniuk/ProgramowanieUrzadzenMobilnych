@@ -6,7 +6,7 @@ import java.util.List;
 
 public class Api {
 
-    private final String adresUrl = "http://192.168.0.56:8080/L7Serwerpodchody/ObslugaGracza";
+    private final String adresUrl = "http://172.30.253.148:8080/L7Serwerpodchody/ObslugaGracza";
     private final String nazwaParametruIdGracza = "idGracza";
     private final String nazwaParametruSzerokosc = "szerokosc";
     private final String nazwaParametruDlugosc = "dlugosc";

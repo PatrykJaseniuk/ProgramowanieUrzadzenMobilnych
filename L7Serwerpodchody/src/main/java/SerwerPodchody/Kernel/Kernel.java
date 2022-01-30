@@ -1,4 +1,4 @@
-package SerwerPodchody.Kernel;
+ package SerwerPodchody.Kernel;
 
 import java.util.HashMap;
 import java.util.LinkedList;
@@ -21,6 +21,7 @@ public class Kernel
     public static List<Punkt> listaPunktow;
     public static float maksymalnaOdleglosc=5;
     public static Map<Integer,Gracz> gracze = new HashMap<>();
+    
     public static void StworzGre(List<Punkt> punkty, int liczbaGraczy)
     {
         listaPunktow = punkty;  
