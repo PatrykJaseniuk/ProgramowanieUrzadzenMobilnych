@@ -1,2 +1,2 @@
 # ProgramowanieUrzadzenMobilnych
-To są projekty na przedmiot PUM. Projekty wykonane są w z wykorzystaniem Java w IDE: 'Android Studio'.
+To są projekty na przedmiot PUM. Projekty wykonane są z wykorzystaniem Java w IDE: 'Android Studio'.
