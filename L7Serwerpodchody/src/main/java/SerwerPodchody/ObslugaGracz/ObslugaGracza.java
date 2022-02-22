@@ -31,34 +31,34 @@ public class ObslugaGracza extends HttpServlet
 {
     ObslugaGracza()
     {
-        List<Punkt> lp = new LinkedList<Punkt>();
-        
-        Punkt p = new Punkt();
-        p.wskazowkaLokalizacji="kieruj ie na poludnie";
-        p.pytanie="ile wazy kilo kurzej siersci";
-        p.wspolrzedneDlugosc=(float)1;
-        p.wspolrzedneSzerokosc=(float)1;
-        p.prawidlowaOdpowiedz=1;
-        List<String> lo =new LinkedList<String>();
-        lo.add("kilo");
-        lo.add("kura nie ma siersci");
-        p.opcjeOdpowiedzi=lo;
-        
-         lp.add(p);
-         
-         p = new Punkt();
-        p.wskazowkaLokalizacji="Kieruj sie na polnoc";
-        p.pytanie="Byc albo nie byc";
-        p.wspolrzedneDlugosc=(float)10;
-        p.wspolrzedneSzerokosc=(float)10;
-        p.prawidlowaOdpowiedz=0;
-        lo =new LinkedList<String>();
-        lo.add("byc");
-        lo.add("nie byc");
-        p.opcjeOdpowiedzi=lo;       
-        
-       lp.add(p);
-        Kernel.StworzGre(lp, 5);
+//        List<Punkt> lp = new LinkedList<Punkt>();
+//        
+//        Punkt p = new Punkt();
+//        p.wskazowkaLokalizacji="kieruj ie na poludnie";
+//        p.pytanie="ile wazy kilo kurzej siersci";
+//        p.wspolrzedneDlugosc=(float)1;
+//        p.wspolrzedneSzerokosc=(float)1;
+//        p.prawidlowaOdpowiedz=1;
+//        List<String> lo =new LinkedList<String>();
+//        lo.add("kilo");
+//        lo.add("kura nie ma siersci");
+//        p.opcjeOdpowiedzi=lo;
+//        
+//         lp.add(p);
+//         
+//         p = new Punkt();
+//        p.wskazowkaLokalizacji="Kieruj sie na polnoc";
+//        p.pytanie="Byc albo nie byc";
+//        p.wspolrzedneDlugosc=(float)10;
+//        p.wspolrzedneSzerokosc=(float)10;
+//        p.prawidlowaOdpowiedz=0;
+//        lo =new LinkedList<String>();
+//        lo.add("byc");
+//        lo.add("nie byc");
+//        p.opcjeOdpowiedzi=lo;       
+//        
+//       lp.add(p);
+//        Kernel.StworzGre(lp, 5);
     }
     Api api = new Api();
     /**
@@ -148,5 +148,4 @@ public class ObslugaGracza extends HttpServlet
 //        } catch (Exception e) {
 //        }
     }
-
 }

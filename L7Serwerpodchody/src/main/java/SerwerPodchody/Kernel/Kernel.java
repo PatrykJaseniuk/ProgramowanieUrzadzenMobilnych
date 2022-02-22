@@ -33,7 +33,7 @@ public class Kernel
            int noweIdGracza;
             do
             {
-                noweIdGracza = rand.nextInt();                
+                noweIdGracza = rand.nextInt(99); 
             }while(gracze.containsKey(noweIdGracza));
             
             gracze.put(noweIdGracza, new Gracz());

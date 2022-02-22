@@ -108,8 +108,8 @@ public class Gracz
        }
        else
        {
-           czasomierz.czakaj(60);
-           api.rezultatOdpowiedzi(false,60);
+           czasomierz.czakaj(5);
+           api.rezultatOdpowiedzi(false,5);
 //       return naglowekRezultatOdpowiedzi+"\n"+"false";       
        }
     }
